@@ -7,6 +7,6 @@ public static void main(String[] args) {
 		for(int i=17;i<=24;i++){
 			System.out.println(i);
 		}
-		System.out.print("hello chenni");
+		System.out.print("hello chennai");
 	}
 }
